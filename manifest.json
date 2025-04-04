@@ -1,0 +1,23 @@
+{
+    "name": "chuck",
+    "short_name": "chuck",
+    "start_url":"https://diogocostadc.github.io/ficha6",
+    "display":"standalone",
+    
+    
+    "icons":[ 
+        {
+            "src":"./img/png1.png",
+            "type":"image/png",
+            "sizes":"512x512"
+            
+        },
+        {
+            "src":"./img/png2.png",
+            "type":"image/png",
+            "sizes":"192x192"
+        }
+        
+
+    ]
+}
